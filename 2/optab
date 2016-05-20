@@ -1,0 +1,4 @@
+LDA 00
+STA 50
+ADD 6B
+
